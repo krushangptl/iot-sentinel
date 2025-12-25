@@ -62,7 +62,7 @@ The Raspberry Pi runs the anomaly detection script. When abnormal data is detect
 - Isolation Forest trained with 98% accuracy
 
 ### Real-Time Detection
-- Raspberry Pi runs `anomaly_detector.py`
+- Raspberry Pi runs `ai_anomaly.py`
 - Incoming data analyzed in real time
 - On anomaly:
   - Buzzer activates
@@ -74,10 +74,10 @@ The Raspberry Pi runs the anomaly detection script. When abnormal data is detect
 ## 5. Project Files
 
 - `collector.py` – Collects MQTT sensor data  
-- `trainer.py` – Trains Isolation Forest model  
-- `anomaly_detector.py` – Real-time anomaly detection  
-- `device_simulator.py` – Synthetic IoT data generator  
-- `buzzer_test.py` – GPIO buzzer test script  
+- `train_model.py` – Trains Isolation Forest model  
+- `ai_anomaly.py` – Real-time anomaly detection  
+- `laptop_pub.py` – Synthetic IoT data generator  
+- `test.py` – GPIO buzzer test script  
 
 ---
 
