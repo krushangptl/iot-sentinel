@@ -81,13 +81,10 @@ The Raspberry Pi runs the anomaly detection script. When abnormal data is detect
 
 ---
 
-## 7. Conclusion
+## 6. Conclusion
 
 This project demonstrates an effective **AI-based anomaly detection system for IoT networks** using Raspberry Pi and MQTT communication. The trained Isolation Forest model successfully detects abnormal sensor behavior with high accuracy.
 
 The system operates entirely at the edge, provides real-time alerts, and is lightweight, low-cost, and scalable. It is suitable for applications such as smart homes, laboratories, and small industrial environments.
 
 ---
-
-**Keywords:** IoT, Anomaly Detection, Raspberry Pi, MQTT, Isolation Forest, Machine Learning
-
