@@ -1,7 +1,7 @@
 # AI-Powered IoT Network Anomaly Detection System
 
 📄 **Project Report (PDF):**  
-[AI-Powered IoT Network Anomaly Detection System](./AI-Powered_IoT_Network_Anomaly_Detection_System-2-7.pdf)
+[AI-Powered IoT Network Anomaly Detection System](./AI-Powered_IoT_Network_Anomaly_Detection_System.pdf)
 
 ---
 
